@@ -17,6 +17,11 @@
       "repository": "git@github.com:hellasmoon/graylog-plugin-collector.git",
       "revision": "master",
       "assembly": true
+    },
+    {
+      "repository": "git@github.com:hellasmoon/graylog-plugin-pipeline-processor.git",
+      "revision": "master",
+      "assembly": true
     }
   ]
 }
