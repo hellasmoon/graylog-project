@@ -22,6 +22,11 @@
       "repository": "git@github.com:hellasmoon/graylog-plugin-pipeline-processor.git",
       "revision": "master",
       "assembly": true
+    },
+    {
+      "repository": "git@github.com:hellasmoon/graylog-plugin-kafka-inout.git",
+      "revision": "master",
+      "assembly": true
     }
   ]
 }
